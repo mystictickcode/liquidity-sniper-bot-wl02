@@ -1,4 +1,4 @@
-# 
+# updated liquidity sniper bot | liquidity-sniping + stop-loss is the best liquidity sniper bot, featuring liquidity-sniping and stop-loss. Fast, smart, and optimized for MEV and
 
 
 
